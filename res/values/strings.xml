@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LibreTaxiChofer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_buscar_user">BuscarUserActivity</string>
+	<string name="title_activity_registrese">Registráte Ahora</string>
+    <string name="title_activity_seleccionar_taxi">Seleccionar Taxi</string>
+    <string name="title_activity_esperar_confirmacion_taxi">Esperar Confirmacion</string>
+</resources>
