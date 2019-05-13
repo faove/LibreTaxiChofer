@@ -53,9 +53,6 @@
         <activity android:name="com.libre.taxi.chofer.EnviarData" >
         </activity>
 
-        <meta-data
-            android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCmhooNdxlE0MMFi88BIU_JMOpofKhR7Vw" />
 
         <activity
             android:name="com.libre.taxi.chofer.BuscarUserActivity"
